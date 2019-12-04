@@ -1,6 +1,6 @@
 # Keras  Implementation of Capsule Networks and CNN on MNIST Digits Dataset
 
-You can find the notebook file here for more explanation and steps of running the code
+[You can find the notebook file here for more explanation and steps of running the code](https://github.com/Desire100/Capsule-Network-and-CNN-Keras-Implementation-on-MNIST-Dataset/blob/master/Keras%20Implementation%20of%20CNN%20and%20Capsule%20Network%20on%20MNIST%20.ipynb)
 
 In this demo we will build both capsule and convolutional neural network model for recognizing handwritten digits.
 ### Chapters
